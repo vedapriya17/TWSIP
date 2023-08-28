@@ -1,4 +1,5 @@
 #panda-commerce
+LANDING PAGE
 panda Commerce is a simple and beginner-level eCommerce landing page design project. It showcases a responsive, providing a seamless experience across different devices and screen sizes and clean landing page developed using HTML, CSS, Bootstrap, and Font Awesome for icons. The project aims to provide a foundation for those starting out in web development and offers a well-organized code structure. [preview👁️‍🗨️](https://panda-commerce-2023.netlify.app/)
 
 ## Features
